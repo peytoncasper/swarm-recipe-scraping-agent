@@ -1,4 +1,4 @@
-![Recipe Swarm Agent Banner](banner.png)
+![Recipe Swarm Agent Banner](assets/banner.png)
 
 # Recipe Swarm Agent
 
