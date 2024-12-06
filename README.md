@@ -8,7 +8,7 @@ A multi-agent system that finds and formats recipes using Azure OpenAI and web s
 
 This project demonstrates the power of AI agents for automated recipe extraction using OpenAI Swarm, a minimalist framework focused on simplicity and customization. The system efficiently searches, scrapes, and formats recipes into structured JSON data.
 
-[Read the full blog post here](URL_TO_BE_ADDED)
+[Read the full blog post here](https://peytoncasper.com/blog/swarm-recipe-extraction-agent/index.html)
 
 ## Features
 
