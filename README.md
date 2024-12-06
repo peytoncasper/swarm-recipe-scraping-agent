@@ -1,3 +1,5 @@
+![Recipe Swarm Agent Banner](banner.png)
+
 # Recipe Swarm Agent
 
 A multi-agent system that finds and formats recipes using Azure OpenAI and web scraping capabilities.
